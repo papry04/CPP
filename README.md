@@ -4,10 +4,10 @@ CPP is a comprehensive event management system designed to streamline the planni
 
 We identify the following main users.
 
-**_Program Chairs: Oversee the review process, make final decisions on submissions, and coordinate event agendas using CPP tools and features._**
+**_Program Chairs:_** Oversee the review process, make final decisions on submissions, and coordinate event agendas using CPP tools and features.
 
-**_System Administrators: Manage administrative tasks such as user roles, permissions, and system configurations._**
+**_System Administrators:_** Manage administrative tasks such as user roles, permissions, and system configurations.
 
-**Reviewers: Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals._**
+**Reviewers:_** Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals.
 
-**Authors: Submit papers to the event. _**
+**Authors:_** Submit papers to the event. 
