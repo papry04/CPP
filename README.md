@@ -14,3 +14,7 @@ We identify the following main users.
 
 Other Product Requirements: 
 This is a Web-based application connected to a DB.
+# Task 1: Vision Document 
+
+A vision document is a high-level overview of a software project that outlines the primary goals, objectives, and direction of the project. 
+It is used in the early stages of a project to align stakeholders on the purpose and expectations for the software solution. 
