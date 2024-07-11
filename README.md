@@ -6,8 +6,8 @@ We identify the following main users.
 
 **_Program Chairs: Oversee the review process, make final decisions on submissions, and coordinate event agendas using CPP tools and features._**
 
-**System Administrators: Manage administrative tasks such as user roles, permissions, and system configurations.
+**_System Administrators: Manage administrative tasks such as user roles, permissions, and system configurations._**
 
-**Reviewers: Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals.
+**Reviewers: Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals._**
 
-**Authors: Submit papers to the event 
+**Authors: Submit papers to the event. _**
