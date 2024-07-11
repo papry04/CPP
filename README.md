@@ -8,6 +8,6 @@ We identify the following main users.
 
 **_System Administrators:_** Manage administrative tasks such as user roles, permissions, and system configurations.
 
-**Reviewers:_** Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals.
+**_Reviewers:_** Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals.
 
-**Authors:_** Submit papers to the event. 
+**_Authors:_** Submit papers to the event. 
