@@ -12,5 +12,5 @@ We identify the following main users.
 
 **_Authors:_** Submit papers to the event. 
 
-Other Product Requirements
+Other Product Requirements: 
 This is a Web-based application connected to a DB.
