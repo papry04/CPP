@@ -11,3 +11,6 @@ We identify the following main users.
 **_Reviewers:_** Experts in the field responsible for evaluating and providing feedback on submitted papers and proposals.
 
 **_Authors:_** Submit papers to the event. 
+
+Other Product Requirements
+This is a Web-based application connected to a DB.
